@@ -1,0 +1,85 @@
+<scoverage 
+statement-count="22" statements-invoked="22" statement-rate="100.00" branch-rate="100.00" version="1.0" timestamp="1486041326061">
+    <packages>
+        <package name="edu.knoldus" statement-count="22" statements-invoked="22" statement-rate="100.00">
+            <classes>
+                <class 
+                name="edu.knoldus.FutureFiles" filename="FutureFiles.scala" statement-count="22" statements-invoked="22" statement-rate="100.00" branch-rate="100.00">
+                    <methods>
+                        <method 
+                        name="edu.knoldus/FutureFiles/getRecursiveListOfFiles" statement-count="22" statements-invoked="22" statement-rate="100.00" branch-rate="100.00">
+                            <statements>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="414" end="483" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="337" end="337" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="423" end="450" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="414" end="514" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="354" end="367" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="372" end="372" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="423" end="483" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="378" end="404" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="458" end="458" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="213" end="558" line="9" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="420" end="420" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="341" end="405" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="436" end="449" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="300" end="313" line="12" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="414" end="507" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="331" end="406" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="492" end="506" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="459" end="482" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="341" end="368" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="526" end="554" line="17" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="341" end="405" line="13" branch="false" invocation-count="1" ignored="false">
+</statement>
+                                <statement 
+                                package="edu.knoldus" class="FutureFiles" class-type="Object" full-class-name="edu.knoldus.FutureFiles" source="/home/knoldus/Future-assignment/src/main/scala/FutureFiles.scala" method="getRecursiveListOfFiles" start="423" end="483" line="14" branch="false" invocation-count="1" ignored="false">
+</statement>
+                            </statements>
+</method>
+                    </methods>
+</class>
+            </classes>
+        </package>
+    </packages>
+</scoverage>

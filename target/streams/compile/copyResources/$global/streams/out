@@ -1,0 +1,8 @@
+[0m[[0mdebug[0m] [0mCopy resource mappings: [0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Future-assignment/src/main/resources/t2.txt,/home/knoldus/Future-assignment/target/scala-2.12/classes/t2.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Future-assignment/src/main/resources/D2,/home/knoldus/Future-assignment/target/scala-2.12/classes/D2)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Future-assignment/src/main/resources/t1.txt,/home/knoldus/Future-assignment/target/scala-2.12/classes/t1.txt)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Future-assignment/src/main/resources/D2/D3,/home/knoldus/Future-assignment/target/scala-2.12/classes/D2/D3)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Future-assignment/src/main/resources/D2/t3,/home/knoldus/Future-assignment/target/scala-2.12/classes/D2/t3)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Future-assignment/src/main/resources/D2/t4,/home/knoldus/Future-assignment/target/scala-2.12/classes/D2/t4)[0m
+[0m[[0mdebug[0m] [0m	(/home/knoldus/Future-assignment/src/main/resources/D2/D3/t5,/home/knoldus/Future-assignment/target/scala-2.12/classes/D2/D3/t5)[0m
