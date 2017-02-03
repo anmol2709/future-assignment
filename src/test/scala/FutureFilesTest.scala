@@ -19,4 +19,8 @@ class FutureFilesTest extends FunSuite {
     assert(Await.result(FutureFiles.getFiles(new File("/home/knoldus/Future-assignment/src/main/resources")), 10 seconds) == listOfFiles)
 
   }
+
+  test("Testing number of Files") {
+    assert(((Await.result(FutureFiles.getFiles(new File("/home/knoldus/Future-assignment/src/main/resources")), 10 seconds)).length) == 5)
+  }
 }
